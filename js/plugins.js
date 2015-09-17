@@ -48,7 +48,3 @@ $(function(){
     });    
 })
 
-(function goToFacebook(){
-    window.location = "http://www.facebook.com/"
-})
-
