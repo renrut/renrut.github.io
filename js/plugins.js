@@ -39,7 +39,7 @@ $(function(){
         var pdf_link = $(this).attr('href');
         var iframe = '<object type="application/pdf" data="'+pdf_link+'" width="94%" height="500">No Support</object>'
         $.createModal({
-            title:'My Résumé',
+            title:'My Resumé',
             message: iframe,
             closeButton:false,
             scrollable:false
